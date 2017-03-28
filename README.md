@@ -1,5 +1,5 @@
 # DataFace
-A mockup of a web application that provides users with a suite of Human Resources tools.
+A mockup of a web application that provides users with a suite of tools for analyzing, visualizing, and managing business data.
 
 ## Summary
 This is a mock up for a comprehensive platform for tracking, visualizing, and analyzing data that businesses typically deal with.
@@ -15,4 +15,4 @@ The underlying code provided by the fine folks at Bootstrap is well documented, 
 One could easily use SQL or SQLite to modify, store, and keep track of data in real time.  This can be achieved through a web application, for example, via a PHP file.
 
 ## DataFace as a demo for Rocket Software
-I started this project as a demo to share with my Rocket Software interviewer.  I thought it would be fun to use the Rocket Software name and likeness here and there for context and immersion. 
+I started this project as a demo to share with my Rocket Software interviewer.  I thought it would be fun to use the Rocket Software name and likeness here and there for context and immersion.  Those usages might fall under a legal grey area though, so I'll of course be removing any and all usages after the interview.

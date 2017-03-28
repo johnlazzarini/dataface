@@ -68,13 +68,13 @@ $(function () {
     Morris.Donut({
         element: 'morris-donut-chart',
         data: [{
-            label: "In-app purchases: Android",
+            label: "Android",
             value: 10
         }, {
-            label: "In-app purchases: iOS",
+            label: "iOS",
             value: 20
         }, {
-            label: "In-app purchases from web application",
+            label: "Web",
             value: 5
         }],
         resize: true
