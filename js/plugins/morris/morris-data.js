@@ -1,6 +1,6 @@
 // Morris.js Charts sample data for SB Admin template
 
-$(function() {
+$(function () {
 
     // Area Chart
     Morris.Area({
@@ -68,14 +68,14 @@ $(function() {
     Morris.Donut({
         element: 'morris-donut-chart',
         data: [{
-            label: "Download Sales",
-            value: 12
+            label: "In-app purchases: Android",
+            value: 10
         }, {
-            label: "In-Store Sales",
-            value: 30
-        }, {
-            label: "Mail-Order Sales",
+            label: "In-app purchases: iOS",
             value: 20
+        }, {
+            label: "In-app purchases from web application",
+            value: 5
         }],
         resize: true
     });
@@ -179,7 +179,7 @@ $(function() {
         }, {
             d: '2012-10-31',
             visits: 1892
-        }, ],
+        },],
         // The name of the data record attribute that contains x-visitss.
         xkey: 'd',
         // A list of names of data record attributes that contain y-visitss.
